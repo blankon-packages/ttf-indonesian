@@ -1,3 +1,9 @@
+indonesian-fonts (0.7-0blankon3) uluwatu; urgency=medium
+
+  * Rebuild Release for Uluwatu.
+
+ -- Achmad Yusri Afandi <yusrideb@cpan.org>  Mon, 15 May 2017 09:03:12 +0800
+
 indonesian-fonts (0.7-0blankon2) uluwatu; urgency=medium
 
   * Upload to uluwatu
